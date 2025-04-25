@@ -1,40 +1,32 @@
-# 🌕 Participation at CODESIGN MX
+# 🌕 My trabajo en codesign mx - Work at codesign mx 
 
-> A Virtual Reality (VR) game developed in Unity based on the course of [Daniel Stringer](https://opensea.io/collection/daily-pixel-bashing).
-> Destroy as many meteors as possible within a time limit!
+[Linkedin](https://www.linkedin.com/company/codesign-mx/about/)
+[Web](https://www.codesign.mx/)
 
 ---
 
-## 🎮 About the Game
+## 🎮 Proyectos - Proyects
 
-**Moon VR Shooter** is an immersive VR experience where players must quickly react to incoming meteors and shoot them down before time runs out.
+### **DriVR Simulator**
 
-- 🚀 Developed 100% in **Unity**.
-- 🕶️ Designed specifically for **Virtual Reality** platforms.
-
-## 🛠️ Technologies Used
+#### 🛠️ Tecnologías usadas - Technologies Used
 
 - **Unity Engine** (C#)
-- **VR Integration** (XR Toolkit / OpenXR)
----
 
-## 🎥 Gameplay Screenshot
+<!-- #### 🎥 Gameplay Screenshot -->
 
----
+#### 🧩 Mi participacion -My Participation
 
-## 📜 Project Highlights
 
-- Full VR interaction: hand-tracked shooting.
-- Meteor spawning using the Pooling design pattern.
-- Time-limited survival gameplay.
-- Lightweight optimizations for smooth VR experience.
+En este proyecto yo fui responsable de - In this proyect, I was responsable for: 
 
----
+- 🧭 Agregar rutas dinámicas de waypoints para un sistema de agentes (carros) desarrollado por [NeoSerge](https://github.com/NeoSerge?tab=repositories). Desarrollar waypoints con un ajuste vertical automático respecto a los colliders de terreno para mantener un espacio consistente entre los distintos tipos de elevaciones.   
 
-## 🚀 How to Play
+- 🧭 Add dynamic waypoint routes for an agent navigation system developeb by [NeoSerge](https://github.com/NeoSerge?tab=repositories). Develope waypoints with automatic vertical adjustment to the terrain colliders to maintain consistent spacing across different elevations.
 
-1. Connect your VR headset.
-2. Launch the game.
-3. Shoot as many meteors as you can before the timer ends!
 
----
+![Waypoints]()
+
+
+
+
