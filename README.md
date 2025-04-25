@@ -25,7 +25,8 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 - 🧭 Add dynamic waypoint routes for an agent navigation system developeb by [NeoSerge](https://github.com/NeoSerge?tab=repositories). Develope waypoints with automatic vertical adjustment to the terrain colliders to maintain consistent spacing across different elevations.
 
 
-![Waypoints]()
+![Waypoints](![waypoints-edited](https://github.com/user-attachments/assets/a0c60af5-5490-4f16-ab7b-6baffdbe329c)
+)
 
 
 
