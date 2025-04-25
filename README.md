@@ -1,7 +1,8 @@
 # 🌕 My trabajo en codesign mx - Work at codesign mx 
 
-[Linkedin](https://www.linkedin.com/company/codesign-mx/about/)
-[Web](https://www.codesign.mx/)
+codesign: 
+ 💼 [Linkedin](https://www.linkedin.com/company/codesign-mx/about/)
+ 🌐 [Web](https://www.codesign.mx/)
 
 ---
 
