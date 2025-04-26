@@ -10,13 +10,18 @@ codesign:
 
 ### **DriVR Simulator**
 
+Un simulador de manejo para capacitar conductores en distintos vehículos en ciudad, carretera, entre otros. Mis responsabilidades fueron en el área de programación del simulador en Unity.
+
+A driving simulator designed to train drivers in operating different types of vehicles across city streets, highways, and other environments.
+My responsibilities focused on the programming area of the simulator, developed in Unity.
+
 #### 🛠️ Tecnologías usadas - Technologies Used
 
 - **Unity Engine** (C#)
 
 <!-- #### 🎥 Gameplay Screenshot -->
 
-#### 🧩 Mi participacion -My Participation
+#### ⚔️ Mi participacion -My Participation
 
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for: 
@@ -35,4 +40,31 @@ Este sistema redujo considerablemente los tiempos de desarrollo al agregar nueva
 
 ![Waypoints](https://github.com/user-attachments/assets/a0c60af5-5490-4f16-ab7b-6baffdbe329c)
 
+
+### **DriVR Simulator Showcase**
+
+Un showcase en Realidad Virtual a escala real del hardware utilizado para el simulador de DriVR. El movimiento es por medio de anclas de teleport y se muestran hotspots interactivos para presentar información de cada parte del simulador.
+
+A Virtual Reality showcase at real scale of the DriVR driving simulator hardware.
+Movement is handled through teleport anchors, and interactive hotspots are used to display information about each part of the simulator.
+
+#### 🛠️ Tecnologías usadas - Technologies Used
+
+- **Unity Engine** (C#)
+- **XR Interaction Toolkit** (Unity)
+
+#### ⚔️ Mi participacion -My Participation
+
+En este proyecto yo fui responsable de - In this proyect, I was responsable for:
+
+- 🪐 Desarrollo completo de la aplicación - Full development of the application.
+
+- 👣 Moviento del usuario por medio de teleport anchors - User movement through teleport anchors.
+
+
+
+
+- 🔘Interacción con botones de información - Interaction with information buttons.
+
+- 📇Implementación de sistema de eventos por distintos canales - Implementation of an event system across different channels.
 
