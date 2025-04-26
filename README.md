@@ -1,4 +1,4 @@
-# 🌕 My trabajo en codesign mx - Work at codesign mx 
+# 🌕 Mi trabajo en codesign mx - Work at codesign mx 
 
 codesign: 
  💼 [Linkedin](https://www.linkedin.com/company/codesign-mx/about/)
@@ -56,7 +56,9 @@ Movement is handled through teleport anchors, and interactive hotspots are used 
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
-- 🪐 Desarrollo completo de la aplicación - Full development of the application.
+- Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+
+- 🪐 Programación completa de la aplicación - Full programming of the application.
 
 - 👣 Moviento del usuario por medio de teleport anchors - User movement through teleport anchors.
 
@@ -67,4 +69,36 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
  ![Interactions](https://github.com/user-attachments/assets/ccc713d4-6af4-474d-a26f-947f337dff30)
 
 - 📇Implementación de sistema de eventos por distintos canales - Implementation of an event system across different channels.
+
+
+### **Race to the goal**
+
+Un juego multijugador inspirado en Fall-Guys donde los jugadores tienen que recorrer un circuito lleno de obstáculos, trampas y booster hasta alcanzar el premio final. 
+
+A multiplayer game inspired by Fall-Guys where the players must race through a circuit full of moving obstacles, traps and boosters in order to reach the final prize. 
+
+
+#### 🛠️ Tecnologías usadas - Technologies Used
+
+- **Unity Engine**
+- **Typescript**
+- **[Needle Engine 3.51.4](https://needle.tools/)** for Unity. 
+
+#### ⚔️ Mi participacion -My Participation
+
+En este proyecto yo fui responsable de - In this proyect, I was responsable for:
+
+- 🧭 Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+
+- 🧭 Game Design en colaboración con **Nombre de mimo** - Game Design in collaboration with **Nombre de mimo**. 
+
+- 🪐 Programación completa de la aplicación - Full programming of the application.
+
+- 🧭 Comunicación multijugador mediante el envío de mensajes de red e invocación de eventos para sincronizar distintos elementos del juego - Multiplayer communication through sending network messages and invoking events to synchronize various game elements.
+
+- 🧭 Configuraciones previas al juego para sincronizar los modelos 3D de cada jugador, animaciones, activación de obstáculos móviles y otros procesos controlados por el `GameManager` - Pre-game settings to synchronize 3D player models, animations, moving obstacles activation, and other processes managed by the `GameManager`. 
+
+- 🧭 Condiciones de victoria, lógica del controlador del jugador, lógica de los boosters y del final del juego - Win conditions, player controller logic, booster logic, and game ending logic.
+
+
 
