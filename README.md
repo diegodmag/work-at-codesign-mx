@@ -60,10 +60,11 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
 - 👣 Moviento del usuario por medio de teleport anchors - User movement through teleport anchors.
 
-
-
+![Locomotion](https://github.com/user-attachments/assets/b029c570-1df4-4795-99be-20869681da1c)
 
 - 🔘Interacción con botones de información - Interaction with information buttons.
+
+ ![Interactions](https://github.com/user-attachments/assets/ccc713d4-6af4-474d-a26f-947f337dff30)
 
 - 📇Implementación de sistema de eventos por distintos canales - Implementation of an event system across different channels.
 
