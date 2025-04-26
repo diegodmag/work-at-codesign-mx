@@ -38,8 +38,7 @@ Este sistema redujo considerablemente los tiempos de desarrollo al agregar nueva
 
 - 🚓 Random Car Spawner System designed to instantiate different car configurations along the waypoint paths either over a single lane or across the entire highway. This system considerably reduced  development times of adding new routes and car to the proyect.   
 
-![Waypoints](https://github.com/user-attachments/assets/a0c60af5-5490-4f16-ab7b-6baffdbe329c)
-
+![Car Random Spawner](https://github.com/user-attachments/assets/9efe6e50-2449-4978-b457-2283fd730b72)
 
 ### **DriVR Simulator Showcase**
 
