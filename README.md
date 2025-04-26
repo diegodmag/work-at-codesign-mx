@@ -94,11 +94,18 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
 - 🪐 Programación completa de la aplicación - Full programming of the application.
 
+ ![Race-first-show](https://github.com/user-attachments/assets/fe081c46-3f91-4782-bcf8-51d550737f72)
+
 - 🧭 Comunicación multijugador mediante el envío de mensajes de red e invocación de eventos para sincronizar distintos elementos del juego - Multiplayer communication through sending network messages and invoking events to synchronize various game elements.
 
 - 🧭 Configuraciones previas al juego para sincronizar los modelos 3D de cada jugador, animaciones, activación de obstáculos móviles y otros procesos controlados por el `GameManager` - Pre-game settings to synchronize 3D player models, animations, moving obstacles activation, and other processes managed by the `GameManager`. 
 
+![Race-Loading-procceses](https://github.com/user-attachments/assets/52c6cdb2-ff0b-4c25-a974-545abc105d80)
+
 - 🧭 Condiciones de victoria, lógica del controlador del jugador, lógica de los boosters y del final del juego - Win conditions, player controller logic, booster logic, and game ending logic.
+
+![Race-start](https://github.com/user-attachments/assets/03e6f504-baee-44ae-8dc5-93fcc64f8e6f)
+
 
 
 
