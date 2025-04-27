@@ -107,5 +107,31 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 ![Race-start](https://github.com/user-attachments/assets/03e6f504-baee-44ae-8dc5-93fcc64f8e6f)
 
 
+### **Star-Snatch**
 
+Un juego multijugador inspirado en Fall Guys y posterior a *Race to the Goal*, donde los jugadores deberán recolectar la mayor cantidad de medallas antes de que la cuenta regresiva termine.
+Sin embargo, también tendrán que cuidarse de los obstáculos.
 
+A multiplayer game inspired by Fall Guys and following *Race to the Goal*, where players must collect as many medals as possible before the countdown ends.
+However, they must also watch out for the obstacles around them.
+
+- **Unity Engine**
+- **Typescript**
+- **[Needle Engine 3.51.4](https://needle.tools/)** for Unity. 
+
+#### ⚔️ Mi participacion -My Participation
+
+En este proyecto yo fui responsable de - In this proyect, I was responsable for:
+
+- 🧭 Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+
+- 🧭 Game Design en colaboración con **Nombre de mimo** - Game Design in collaboration with **Nombre de mimo**. 
+
+- 🪐 Programación completa de la aplicación - Full programming of the application.
+
+- 🪐 Gran parte de la lógica utilizada en *Race to the Goal* sirvió como base para *Star Snatch*. Sin embargo, se añadieron las siguientes mejoras - Most of the logic used in *Race to the Goal* served as the foundation for *Star Snatch*. However, the following features were added:
+    - Generación aleatoria de medallas y boosters de velocidad a lo largo de la arena, basada en un arreglo de puntos específicos - Random generation of medals and speed boosters across the arena, based on an array of specific spawn points.
+    - Posición aleatoria de torretas y barredoras en cada partida - Randomized positioning of turrets and sweepers in each match.
+    - Mecánica de puntaje basada en la recolección de medallas - Scoring mechanics based on collectible medals.
+    - Sincronización del puntaje y del nickname entre todos los usuarios de la sala multijugador - Synchronization of player scores and nicknames across all users in the multiplayer room.
+    - Contador global sincronizado para todos los jugadores - Global countdown timer synchronized for all players.
