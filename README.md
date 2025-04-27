@@ -115,6 +115,7 @@ Sin embargo, también tendrán que cuidarse de los obstáculos.
 A multiplayer game inspired by Fall Guys and following *Race to the Goal*, where players must collect as many medals as possible before the countdown ends.
 However, they must also watch out for the obstacles around them.
 
+![Star-Snatch-show](https://github.com/user-attachments/assets/d26ec252-d676-4d34-b1a2-ffe59bc558a0)
 - **Unity Engine**
 - **Typescript**
 - **[Needle Engine 3.51.4](https://needle.tools/)** for Unity. 
@@ -133,5 +134,6 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
     - Generación aleatoria de medallas y boosters de velocidad a lo largo de la arena, basada en un arreglo de puntos específicos - Random generation of medals and speed boosters across the arena, based on an array of specific spawn points.
     - Posición aleatoria de torretas y barredoras en cada partida - Randomized positioning of turrets and sweepers in each match.
     - Mecánica de puntaje basada en la recolección de medallas - Scoring mechanics based on collectible medals.
-    - Sincronización del puntaje y del nickname entre todos los usuarios de la sala multijugador - Synchronization of player scores and nicknames across all users in the multiplayer room.
+    - Sincronización del puntaje y del nickname entre todos los usuarios de la sala multijugador - Synchronization of player scores and nicknames across all users in the multiplayer room. 
+  ![Star-Snatch](https://github.com/user-attachments/assets/789e42a5-ed31-4e3d-8752-15816ffd08fd)
     - Contador global sincronizado para todos los jugadores - Global countdown timer synchronized for all players.
