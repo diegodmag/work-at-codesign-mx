@@ -10,10 +10,10 @@ codesign:
 
 ### **DriVR Simulator**
 
-Un simulador de manejo para capacitar conductores en distintos vehículos en ciudad, carretera, entre otros. Mis responsabilidades fueron en el área de programación del simulador en Unity.
+Un simulador de manejo para distintos vehículos en ciudad, carretera, entre otros. Mis responsabilidades fueron en el área de programación del simulador en Unity.
 
 A driving simulator designed to train drivers in operating different types of vehicles across city streets, highways, and other environments.
-My responsibilities focused on the programming area of the simulator, developed in Unity.
+My responsibilities focused on the programming area of the simulator, developed in Unity. /// <<< Corregir
 
 #### 🛠️ Tecnologías usadas - Technologies Used
 
