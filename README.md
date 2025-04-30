@@ -12,8 +12,8 @@ codesign:
 
 Un simulador de manejo para distintos vehículos en ciudad, carretera, entre otros. Mis responsabilidades fueron en el área de programación del simulador en Unity.
 
-A driving simulator designed to train drivers in operating different types of vehicles across city streets, highways, and other environments.
-My responsibilities focused on the programming area of the simulator, developed in Unity. /// <<< Corregir
+A driving simulator operating in different contexts like city streets, highways, and other environments.
+My responsibilities focused on the programming area of the simulator, developed in Unity.
 
 #### 🛠️ Tecnologías usadas - Technologies Used
 
@@ -56,7 +56,7 @@ Movement is handled through teleport anchors, and interactive hotspots are used 
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
-- Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+- Modelado 3D por el equipo de 3D de codesign - 3D Modeling by the 3D team at codesign. 
 
 - 🪐 Programación completa de la aplicación - Full programming of the application.
 
@@ -88,9 +88,9 @@ A multiplayer game inspired by Fall-Guys where the players must race through a c
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
-- 🧭 Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+- 🧭 Modelado 3D por el equipo de 3D de codesign - 3D Modeling by 3D team at codesign. 
 
-- 🧭 Game Design en colaboración con **Nombre de mimo** - Game Design in collaboration with **Nombre de mimo**. 
+- 🧭 Game Design en colaboración con el equipo de 3D de codesign - Game Design in collaboration with the 3D team at codesign. 
 
 - 🪐 Programación completa de la aplicación - Full programming of the application.
 
@@ -124,9 +124,9 @@ However, they must also watch out for the obstacles around them.
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 
-- 🧭 Modelado 3D por **Nombre modelador** - 3D Modeling by **Nombre modelador**. 
+- 🧭 Modelado 3D por el equipo de 3D de codesign - 3D Modeling by 3D team at codesign. 
 
-- 🧭 Game Design en colaboración con **Nombre de mimo** - Game Design in collaboration with **Nombre de mimo**. 
+- 🧭 Game Design en colaboración con el equipo de 3D de codesign - Game Design in collaboration with the 3D team at codesign. 
 
 - 🪐 Programación completa de la aplicación - Full programming of the application.
 
